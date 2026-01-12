@@ -1,0 +1,2 @@
+# Data-Manipulation-and-Machine-Learning-Pipeline-Project
+Collaborated with my team to manipulate datasets using advanced tools like Databricks and PySpark for large-scale data processing. Incorporated machine learning models to predict trends and enhance data-driven decision-making processes. Developed interactive Power BI dashboards to visualize insights, including historical data and compliance trends.
